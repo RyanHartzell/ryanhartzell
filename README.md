@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub :point_right::point_right:
 
 <!--
 **RyanHartzell/ryanhartzell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
